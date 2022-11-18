@@ -12,7 +12,7 @@ https://github.com/chungpaella/weather-map
 
 * Mobistudy: Mobistudy is an open source platform for mobile-phone based health research. Where participants can download the app on mobile and fill
 in questionnaires and tasks with data. The data which is then donated for clinical research.
-https://github.com/Mobistudy
+https://github.com/Mobistudy https://github.com/Mobistudy/MobistudyWeb
 
 <!--
 **chungpaella/chungpaella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
