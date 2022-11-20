@@ -8,12 +8,12 @@ Here are some projects me and my peers have been working on 👯.
 
 **Weather Map**<br>
 A responsive web application that shows the current weather and the weather forecast of the city the user searched for. The user can add city or multiple cities as a favorite. These selected favorite cities are visualized on a map with a marker. The weather info is fetched using openweathermap api.
-https://github.com/chungpaella/weather-map 
+[Weather Map](https://github.com/chungpaella/weather-map)
 
 **Mobistudy**<br>
 Mobistudy is an open source platform for mobile-phone based health research. Where participants can download the app on mobile and fill
 in questionnaires and tasks with data. The data which is then donated for clinical research.
-https://github.com/Mobistudy https://github.com/Mobistudy/MobistudyWeb
+[Mobistudy](https://github.com/Mobistudy)
 
 <!--
 **chungpaella/chungpaella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
